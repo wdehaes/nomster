@@ -29,6 +29,7 @@ gem 'sprockets', '2.11.0'
 gem 'sass-rails'
 
 gem 'simple_form'
+gem 'devise', '>= 3.2.4'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
