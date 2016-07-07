@@ -33,7 +33,7 @@ gem 'devise', '>= 3.2.4'
 gem "geocoder", "1.3.4"
 gem "figaro", ">= 1.0.0"
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
+#gem 'turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
