@@ -70,18 +70,18 @@ blockquote p {
   display: inline;
 }
 
-.img-picture {
+.img_picture {
   /*max-width: 100%;*/
-  max-height: 200px;
-
-}
-/*.img-wrapper {
   max-height: 300px;
-  max-width: 100%;
-}*/
+  display: block;
+  margin: auto;
+}
+
 
 .image_caption {
-  padding: 5px;
+  padding-bottom: 10px;
+  font-style: italic;
+  text-align: center;
 }
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
@@ -103,4 +103,9 @@ blockquote p {
 
 .carousel {
   box-shadow: 0px 3px 8px #2a2a2a;
+}
+
+.media-object {
+  padding-right: 20px;
+  padding-left: 10px;
 }
